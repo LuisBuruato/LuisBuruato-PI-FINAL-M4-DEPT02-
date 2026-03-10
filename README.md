@@ -1,5 +1,5 @@
 📘 README — AVANCE 1
-Writing
+
 AVANCE 1 – Diseño de Arquitectura del Pipeline
 Descripción
 
