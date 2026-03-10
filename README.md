@@ -1,4 +1,4 @@
-📘 README — AVANCE 1
+📘 README — AVANCE 1.
 
 AVANCE 1 – Diseño de Arquitectura del Pipeline
 Descripción
@@ -54,7 +54,7 @@ Resultado del avance
 Se definió la arquitectura base del sistema de datos, que servirá como guía para la implementación de los siguientes avances del proyecto.
 
 📘 README — AVANCE 2
-Writing
+
 AVANCE 2 – Implementación de Ingesta de Datos
 Descripción
 
@@ -101,7 +101,7 @@ Resultado del avance
 Se implementó un sistema inicial de ingesta de datos, permitiendo capturar información desde las fuentes y almacenarla correctamente dentro del Data Lake.
 
 📘 README — AVANCE 3
-Writing
+
 AVANCE 3 – Transformación y Procesamiento de Datos
 Descripción
 
